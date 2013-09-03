@@ -1,0 +1,5 @@
+- mvn test to run the tests
+- you can check the test results in your browser: ./target/cucumber-html-report/index.html
+- find the cucumber dependencies in pom.xml
+- find the test files below ./src/test/*
+- find the source files below ./src/main/java/info/lotharschulz.cucumber.test/cucumber/test/*.java
